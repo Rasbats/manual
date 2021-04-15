@@ -1,4 +1,4 @@
-# OpenCPN Developer Manual Antora Playbook
+# OpenCPN Developer Manual Antora Playbook test 2
 
 This repo contains the playbook which collects the various manual
 parts and builds the HTML. Committed documents in the docs/
