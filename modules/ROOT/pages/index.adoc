@@ -2,4 +2,4 @@
 
 
 Welcome the the collection of OpenCPN Manuals. Please refer to the Table
-ocf Contents in the left column.
+of Contents in the left column.
